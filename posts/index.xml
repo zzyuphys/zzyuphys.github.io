@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Undergraduate student in condensed matter physics at USTC</title>
+        <link>https://zzyuphys.github.io/posts/</link>
+        <description>All Posts | Undergraduate student in condensed matter physics at USTC</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>zzyu@mail.ustc.edu.cn (Zhenyu Zhang(张振宇))</managingEditor>
+            <webMaster>zzyu@mail.ustc.edu.cn (Zhenyu Zhang(张振宇))</webMaster><lastBuildDate>Sat, 15 Jul 2023 14:28:49 &#43;0800</lastBuildDate><atom:link href="https://zzyuphys.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://zzyuphys.github.io/first_post/</link>
+    <pubDate>Sat, 15 Jul 2023 14:28:49 &#43;0800</pubDate>
+    <author>Zhenyu Zhang(张振宇)</author>
+    <guid>https://zzyuphys.github.io/first_post/</guid>
+    <description><![CDATA[##First_post]]></description>
+</item>
+</channel>
+</rss>
